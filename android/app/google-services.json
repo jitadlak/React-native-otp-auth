@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253978691047",
+    "project_id": "otpauthdemo-b0483",
+    "storage_bucket": "otpauthdemo-b0483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253978691047:android:56315728d3f986da9d6942",
+        "android_client_info": {
+          "package_name": "com.otpauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253978691047-uca9s68hrmnjr3ua46upeivl4totk525.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otpauthfirebase",
+            "certificate_hash": "0888c3e7a4173c3782dced742092ed33477c8719"
+          }
+        },
+        {
+          "client_id": "253978691047-ke30soe5l5q4mo0amqietq1dkdg5esj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC727-czK5YMplYK049BiOWh3g47ijUSfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253978691047-ke30soe5l5q4mo0amqietq1dkdg5esj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
